@@ -76,7 +76,7 @@ The project uses a retail sales dataset containing transaction-level information
 
 ### Database
 - **SQL** – Data storage, querying, filtering, and aggregation.
-- **SQLite ** – Database & SQL Queries.
+- **SQLite** – Database & SQL Queries.
 
 ### Machine Learning
 - **Scikit-learn** – Machine learning models and evaluation.
