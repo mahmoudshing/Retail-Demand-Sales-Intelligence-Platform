@@ -37,9 +37,9 @@ The project uses a retail sales dataset containing transaction-level information
 |---|---|
 | Number of Columns | 17 |
 | Data Type | Structured Tabular Data |
-| Time Period | 2024–2025 (based on the available sample) |
-| Number of Rows | To be added |
-| Dataset Source | To be added |
+| Time Period | 2024–2025  |
+| Number of Rows | 120,000 |
+| Dataset Source | https://www.kaggle.com/datasets/noopurbhatt/retail-sales-dataset |
 
 ### Dataset Features
 
