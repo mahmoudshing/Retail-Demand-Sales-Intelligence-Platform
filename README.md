@@ -27,7 +27,6 @@ This project aims to answer the following business questions:
 5. How do sales performance and purchasing patterns differ across sales channels?
 6. What is the relationship between discounts, quantities sold, and sales revenue?
 7. Which payment methods are most frequently used?
-8. Can historical sales data be used to predict future sales?
 
 ## 📊 Dataset Description
 
@@ -81,7 +80,7 @@ The project uses a retail sales dataset containing transaction-level information
 
 ### Machine Learning
 - **Scikit-learn** – Machine learning models and evaluation.
-- **XGBoost** – Gradient boosting for predictive modeling.
+- **Machine learning models & metrices** – Machine learning models and evaluation.
 
 ### Dashboard & Development
 - **Streamlit** – Interactive dashboard development.
