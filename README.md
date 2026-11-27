@@ -115,7 +115,7 @@ The models may include:
 - Decision Tree Regressor
 - Random Forest Regressor
 - K-Nearest Neighbors Regressor
-- Gradient Boosting / XGBoost
+- Support Vector Machine Regressor
 
 Model performance will be evaluated using appropriate regression metrics, such as:
 
