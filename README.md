@@ -132,7 +132,11 @@ It will provide an overview of sales performance, interactive visualizations, an
 
 ## 👥 Team Members
 
-- Add team member names and contributions here.
+- Mahmoud Abdelmegeed
+- Menna Fawzy
+- Hazem Harby
+- Malak Mohamed
+- Safie eldin
 
 ## 🚀 Future Improvements
 
